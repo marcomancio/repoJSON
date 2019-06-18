@@ -76,6 +76,18 @@
       {
         "id": 6,
         "label": "LSSU"
+      },
+      {
+        "id": 7,
+        "label": "SNM"
+      },
+      {
+        "id": 8,
+        "label": "SCMG"
+      },
+      {
+        "id": 9,
+        "label": "SSNM"
       }
     ]
   },
