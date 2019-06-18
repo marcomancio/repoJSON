@@ -52,11 +52,19 @@
     "cdrList": [
       {
         "id": 1,
-        "label": "HTTP Transazione"
+        "label": "ISUP/ISUP-IVS"
       },
       {
         "id": 2,
-        "label": "HTTP Sessione"
+        "label": "IN - ASE-RI"
+      },
+      {
+        "id": 3,
+        "label": "IN - INAP"
+      },
+      {
+        "id": 4,
+        "label": "IN - MAP"
       }
     ]
   }
