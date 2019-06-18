@@ -87,6 +87,19 @@
         "label": "S3.CP"
       }      
     ]
+  },
+  {
+    "label": "IP",
+    "cdrList": [
+      {
+        "id": 1,
+        "label": "CDR"
+      },
+      {
+        "id": 2,
+        "label": "CDRI"
+      } 
+    ]
   }
 ]
 }
