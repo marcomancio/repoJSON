@@ -14,6 +14,34 @@
       {
         "id": 3,
         "label": "SIP Register"
+      },
+      {
+        "id": 4,
+        "label": "SIP Method"
+      },
+      {
+        "id": 5,
+        "label": "H323"
+      },
+      {
+        "id": 6,
+        "label": "H248/MEGACO"
+      },
+      {
+        "id": 7,
+        "label": "IPPBX"
+      },
+      {
+        "id": 8,
+        "label": "Videoconferenza"
+      },
+      {
+        "id": 9,
+        "label": "I-NEM"
+      },
+      {
+        "id": 10,
+        "label": "Embrace"
       }
     ]
   },
@@ -38,7 +66,57 @@
         "label": "HTTP Sessione"
       }
     ]
-  }
+  },
+  {
+    "label": "SS7-SIGTRAN",
+    "cdrList": [
+      {
+        "id": 1,
+        "label": "ISUP/ISUP-IVS"
+      },
+      {
+        "id": 2,
+        "label": "IN - ASE-RI"
+      },,
+      {
+        "id": 3,
+        "label": "IN - INAP"
+      },
+      {
+        "id": 4,
+        "label": "IN - MAP"
+      },
+      {
+        "id": 5,
+        "label": "IUA"
+      },
+      {
+        "id": 6,
+        "label": "LSSU"
+      },
+      {
+        "id": 7,
+        "label": "SNM"
+      },
+      {
+        "id": 8,
+        "label": "SCMG"
+      },
+      {
+        "id": 9,
+        "label": "SSNM"
+      },
+    ]
+  },
+  {
+    "label": "S3.CP",
+    "cdrList": [
+      {
+        "id": 1,
+        "label": "S3.CP"
+      }
+    ]
+  }	
 ],
   "contatti": [
     {
