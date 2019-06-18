@@ -1,5 +1,5 @@
 {
-	"cdrServices": [
+"cdrServices": [
   {
     "label": "VOIP",
     "cdrList": [
@@ -14,6 +14,14 @@
       {
         "id": 3,
         "label": "SIP Register"
+      },
+      {
+        "id": 4,
+        "label": "SIP Method"
+      },
+      {
+        "id": 5,
+        "label": "H323"
       }
     ]
   },
