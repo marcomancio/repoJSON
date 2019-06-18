@@ -1,4 +1,23 @@
 {
+	"cdrServices": [
+		{ "label": "VOIP", "cdrList": [
+			{ "id": 1, "label": "SIP Call" },
+			{ "id": 2, "label": "SIP Call Scenario" },
+			{ "id": 3, "label": "SIP Register" }
+		]},
+		{ "label": "DNS",
+		    "cdrList": [
+			{ "id": 1, "label": "Dns" }
+		]},
+		{ "label": "HTTP", "cdrList": [
+			{ "id": 1, "label": "HTTP Transazione" },
+			{ "id": 2, "label": "HTTP Sessione" }
+		]}
+	],
+	
+	
+	
+	
   "contatti": [
     {
 		"id": 1,
