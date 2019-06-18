@@ -1,5 +1,5 @@
 {
-"cdrServices": { "cdrServices" : [
+"cdrServices": [
   {
     "label": "VOIP",
     "cdrList": [
@@ -39,7 +39,6 @@
       }
     ]
   }
-	}
 ],
   "contatti": [
     {
