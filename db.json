@@ -14,34 +14,6 @@
       {
         "id": 3,
         "label": "SIP Register"
-      },
-      {
-        "id": 4,
-        "label": "SIP Method"
-      },
-      {
-        "id": 5,
-        "label": "H323"
-      },
-      {
-        "id": 6,
-        "label": "H248/MEGACO"
-      },
-      {
-        "id": 7,
-        "label": "IPPBX"
-      },
-      {
-        "id": 8,
-        "label": "Videoconferenza"
-      },
-      {
-        "id": 9,
-        "label": "I-NEM"
-      },
-      {
-        "id": 10,
-        "label": "Embrace"
       }
     ]
   },
@@ -66,90 +38,8 @@
         "label": "HTTP Sessione"
       }
     ]
-  }	
-],
-  "contatti": [
-    {
-		"id": 1,
-		"first_name": "Semion",
-		"last_name": "Mogilevich",
-		"phone": "512-964-2757",
-		"email": "semion@rhyta.com",
-		"country": "Ucraina"
-    },
-    {
-		"id": 2,
-		"first_name": "Al",
-		"last_name": "capone",
-		"phone": "360-684-1334",
-		"email": "caponeal@teleworm.us",
-		"country": "Stati Uniti"
-    },
-    {
-		"id": 3,
-		"first_name": "Charlie 'Lucky'",
-		"last_name": "Luciano",
-		"phone": "520-573-7903",
-		"email": "lucky@rhyta.com",
-		"country": "Stati Uniti"
-    },
-    {
-		"id": 4,
-		"first_name": "Pablo",
-		"last_name": "Escobar",
-		"phone": "530-480-1961",
-		"email": "pablo@armyspy.com",
-		"country": "Colombia"
-    },
-    { 
-		"id": 5,
-		"first_name": "John", 
-		"last_name": "Gotti",
-		"phone": "404-781-0805", 
-		"email": "JohnGotti@teleworm.us", 
-		"country": "Stati Uniti" 
-	},
-    { 
-		"id": 6,
-		"first_name": "Hisayuki", 
-		"last_name": "Machii",
-		"phone": "603-583-9043", 
-		"email": "machii@teleworm.us", 
-		"country": "Korea" 
-	},
-    { 
-		"id": 7,
-		"first_name": "Tony 'Big Tuna'", 
-		"last_name": "Accardo",
-		"phone": "772-766-2842", 
-		"email": "bigtuna@dayrep.com", 
-		"country": "Stati Uniti" 
-	},
-    { 
-		"id": 8,
-		"first_name": "salvatore 'Totò'", 
-		"last_name": "Riina",
-		"phone": "213-812-8400", 
-		"email": "toto@armyspy.com", 
-		"country": "Italia" 
-	},
-    { 
-		"id": 8,
-		"first_name": "Dawood", 
-		"last_name": "Ibrahim",
-		"phone": "614-365-7945", 
-		"email": "ibra@armyspy.com", 
-		"country": "India" 
-	},
-    { 
-		"id": 10,
-		"first_name": "Xie", 
-		"last_name": "Caiping",
-		"phone": "614-365-7945", 
-		"email": "xie@armyspy.com", 
-		"country": "Cina" 
-	}	
-  ]
+  }
+]
 }
 
 
