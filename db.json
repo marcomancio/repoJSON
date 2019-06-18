@@ -68,7 +68,24 @@
       {
         "id": 4,
         "label": "IN - MAP"
+      },
+      {
+        "id": 5,
+        "label": "IUA"
+      },
+      {
+        "id": 6,
+        "label": "LSSU"
       }
+    ]
+  },
+  {
+    "label": "S3.CP",
+    "cdrList": [
+      {
+        "id": 1,
+        "label": "S3.CP"
+      }      
     ]
   }
 ]
