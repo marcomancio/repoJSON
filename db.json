@@ -46,6 +46,19 @@
         "label": "HTTP Sessione"
       }
     ]
+  },
+  {
+    "label": "SS7-SIGTRAN",
+    "cdrList": [
+      {
+        "id": 1,
+        "label": "HTTP Transazione"
+      },
+      {
+        "id": 2,
+        "label": "HTTP Sessione"
+      }
+    ]
   }
 ]
 }
