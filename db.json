@@ -1,6 +1,47 @@
 {
 "cdrServices": [
   {
+    "label": "SS7-SIGTRAN",
+    "cdrList": [
+      {
+        "id": 1,
+        "label": "ISUP/ISUP-IVS"
+      },
+      {
+        "id": 2,
+        "label": "IN - ASE-RI"
+      },
+      {
+        "id": 3,
+        "label": "IN - INAP"
+      },
+      {
+        "id": 4,
+        "label": "IN - MAP"
+      },
+      {
+        "id": 5,
+        "label": "IUA"
+      },
+      {
+        "id": 6,
+        "label": "LSSU"
+      },
+      {
+        "id": 7,
+        "label": "SNM"
+      },
+      {
+        "id": 8,
+        "label": "SCMG"
+      },
+      {
+        "id": 9,
+        "label": "SSNM"
+      }
+    ]
+  },  
+  {
     "label": "VOIP",
     "cdrList": [
       {
@@ -47,47 +88,6 @@
       {
         "id": 2,
         "label": "HTTP Sessione"
-      }
-    ]
-  },
-  {
-    "label": "SS7-SIGTRAN",
-    "cdrList": [
-      {
-        "id": 1,
-        "label": "ISUP/ISUP-IVS"
-      },
-      {
-        "id": 2,
-        "label": "IN - ASE-RI"
-      },
-      {
-        "id": 3,
-        "label": "IN - INAP"
-      },
-      {
-        "id": 4,
-        "label": "IN - MAP"
-      },
-      {
-        "id": 5,
-        "label": "IUA"
-      },
-      {
-        "id": 6,
-        "label": "LSSU"
-      },
-      {
-        "id": 7,
-        "label": "SNM"
-      },
-      {
-        "id": 8,
-        "label": "SCMG"
-      },
-      {
-        "id": 9,
-        "label": "SSNM"
       }
     ]
   },
