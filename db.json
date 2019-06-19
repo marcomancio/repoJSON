@@ -1,6 +1,7 @@
 {
 "cdrServices": [
   {
+    "color": "#8B0000",
     "label": "SS7-SIGTRAN",
     "cdrList": [
       {
@@ -42,6 +43,7 @@
     ]
   },  
   {
+    "color": "#008B8B",
     "label": "VOIP",
     "cdrList": [
       {
@@ -70,6 +72,7 @@
     ]
   },
   {
+    "color": "#9932CC",
     "label": "DNS",
     "cdrList": [
       {
@@ -79,6 +82,7 @@
     ]
   },
   {
+    "color": "#808080",
     "label": "HTTP",
     "cdrList": [
       {
@@ -92,6 +96,7 @@
     ]
   },
   {
+    "color": "#3CB371",
     "label": "S3.CP",
     "cdrList": [
       {
@@ -101,6 +106,7 @@
     ]
   },
   {
+    "color": "#FFA500",
     "label": "IP",
     "cdrList": [
       {
