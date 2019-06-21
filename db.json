@@ -45,7 +45,7 @@
   {
     "color": "#40E0D0",
     "label": "VOIP",
-    "cdrList": [
+    "cdrTypes": [
       {
         "id": 1,
         "label": "SIP Call"
@@ -74,7 +74,7 @@
   {
     "color": "#9932CC",
     "label": "DNS",
-    "cdrList": [
+    "cdrTypes": [
       {
         "id": 1,
         "label": "Dns"
@@ -84,7 +84,7 @@
   {
     "color": "#808080",
     "label": "HTTP",
-    "cdrList": [
+    "cdrTypes": [
       {
         "id": 1,
         "label": "HTTP Transazione"
@@ -98,7 +98,7 @@
   {
     "color": "#00FA9A",
     "label": "S3.CP",
-    "cdrList": [
+    "cdrTypes": [
       {
         "id": 1,
         "label": "S3.CP"
@@ -108,7 +108,7 @@
   {
     "color": "#FFA500",
     "label": "IP",
-    "cdrList": [
+    "cdrTypes": [
       {
         "id": 1,
         "label": "CDR"
