@@ -3,7 +3,7 @@
   {
     "color": "#8B0000",
     "label": "SS7-SIGTRAN",
-    "cdrList": [
+    "cdrTypes": [
       {
         "id": 1,
         "label": "ISUP/ISUP-IVS"
